@@ -1,5 +1,5 @@
 # DevOps-Automation-Toolkit
-1-1 : A repository containing automation scripts and tools for DevOps tasks. It includes deployment scripts, infrastructure-as-code templates, CI/CD pipelines, and configuration management utilities.
+1-1 : A repository containing automation scripts and tools for DevOps tasks. It includes deployment scripts, infrastructure-as-code templates, CI/CD pipelines, and configuration tilities.
 
 
 # DevOps Automation Toolkit
